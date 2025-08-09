@@ -1,0 +1,7 @@
+backup groq keys 
+
+backup 1 (curremt) = gsk_fsjF rX4Dhf1Lp3RttsC5WGdyb3FYfEBlf gAXeNT3KIsR43H03qRz
+
+backup 2 = gsk_0fXOK5Aki2Pj gHTrVNpRWGdyb3FYeY2RtI9I3jk 9by5zYToLxNtR
+
+backup 3 = gsk_Xhn7XwT2CXm8065 c1BhOWGdyb3FYckf5Q ADXCgsXaQ5eRASBF7In
