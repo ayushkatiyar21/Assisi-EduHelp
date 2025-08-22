@@ -5,7 +5,7 @@ OPEN ROUTER
 k1 (revoked)
 sk-or-v1-8fb4d14ef57fe 77004aa7c66aecfae2f5b2c 60cacf9cee18c26da8ebf0eb5d80
 
-k2
+k2 (revoked)
 sk-or-v1-99293fd8f4305dba c087122d481efa cddaa3e84357172f25af8721613eaed30a
 
 k3
